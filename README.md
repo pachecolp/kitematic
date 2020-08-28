@@ -3,9 +3,9 @@
 
 [![Kitematic Logo](https://cloud.githubusercontent.com/assets/251292/5269258/1b229c3c-7a2f-11e4-96f1-e7baf3c86d73.png)](https://kitematic.com)
 
-Please give us feedback on the new [Docker Desktop Dashboard](https://docs.docker.com/docker-for-mac/edge-release-notes/)!
+Please give us feedback on the new [Docker Desktop Dashboard](https://docs.docker.com/desktop/dashboard/)!
 
-In the latest Edge release of Docker Desktop we have introduced the new [Docker Desktop Dashboard](https://docs.docker.com/docker-for-mac/edge-release-notes/). As part of this, Docker is working on providing a common user experience to developers and bringing the best Kitematic features to its Desktop customers. 
+In the latest Edge release of Docker Desktop we have introduced the new [Docker Desktop Dashboard](https://docs.docker.com/desktop/dashboard/). As part of this, Docker is working on providing a common user experience to developers and bringing the best Kitematic features to its Desktop customers. 
 
 As a result, we plan on achieving feature parity and archiving the Docker Kitematic Project during 2020. After we archive the Kitematic Project there will be no new releases of Kitematic. 
 
